@@ -19,6 +19,6 @@ Para ver la lista de empleados en la aplicación web, sigue estos pasos:
 
 2. Abre tu navegador y visita la siguiente URL:
 
-   ```
+   ```plaintext
    http://127.0.0.1:8000/empleados/
    ```
